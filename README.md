@@ -1,2 +1,2 @@
-# pruebaFotografo
-Prueba de landing page de fotógrafo (Ejercicio de plataforma 5)
+# Prueba Fotografo
+prueba de landing simple con html y css basico. 
